@@ -6,7 +6,7 @@
 
 <section>
 <p align="justify">
-  Sou desenvolvedor Back-End, Cursando Informática no Instituto Federal de Alagoas e atualmente estudando estudando Nest.js.
+  Sou desenvolvedor Full-Stack, Cursando Informática no Instituto Federal de Alagoas e atualmente estudando estudando Nest.js.
 </p>
 
 ### 💻 Skills 
