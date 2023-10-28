@@ -22,7 +22,7 @@
   <a href="mailto:andersoncabraldev1994@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andersoncabraldev1994@gmail.com" height="20px" /></a>
 
-  <a href="https://www.linkedin.com/in/anderson-cabral-67ab2128b/" alt="Linkedin">
+  <a href="www.linkedin.com/in/dev-anderson-cabral" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-cabral-67ab2128b/" height ="20px"/></a>
 
   <a href="https://www.instagram.com/andinoo505" alt="Instagram">
