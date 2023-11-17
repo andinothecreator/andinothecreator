@@ -1,12 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=renatabfs&color=brightgreen&label=Views&style=plastic)
 ## 🤟 Olá, meu nome é Anderson Cabral!
-<img height=400 align="right" src="https://i.pinimg.com/564x/ab/28/19/ab28195de123e46465a5b35a50db6c02.jpg" />
+<img height=400 align="right" src="https://s2-extra.glbimg.com/9BjIWHaUb2WuSuSWiscVussrlYs=/0x0:3774x2516/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f551ea7087a47f39ead75f64041559a/internal_photos/bs/2023/f/J/UGlIh5R5ya1hhH96YoIg/103864038-flamengos-forward-gabriel-barbosa-gestures-during-the-copa-libertadores-round-of-16-first.jpg" />
 
 ### Descrição
 
 <section>
 <p align="justify">
-  Sou desenvolvedor Back-end, Cursando Informática no Instituto Federal de Alagoas e atualmente estudando estudando Nest.js.
+  Sou desenvolvedor Back-end, Cursando Informática no Instituto Federal de Alagoas e atualmente estudando estudando Nest.js. Meus amores são o Flamengo, Jovem Dionísio e Taylor Swift.
 </p>
 
 ### 💻 Skills 
