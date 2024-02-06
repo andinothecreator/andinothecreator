@@ -6,7 +6,7 @@
 
 <section>
 <p align="justify">
-  Sou desenvolvedor Back-end, Cursando Informática no Instituto Federal de Alagoas e atualmente estudando estudando Nest.js.
+  Sou desenvolvedor Back-end, Formado no Curso Técnico de Informática no Instituto Federal de Alagoas, apaixonado por programação e atualmente estudando Golang.
 </p>
 
 ### 💻 Skills 
